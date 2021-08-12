@@ -1,0 +1,5 @@
+rootProject.name = 'traces-demo'
+
+include 'player-service'
+include 'armor-service'
+include 'weaponry-service'
